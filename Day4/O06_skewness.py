@@ -17,7 +17,7 @@ if mu < median  => negatively skewed distribution : average pulled downwards : t
 if mu == median => symmetric distribution   : average is centered   : the tails are of equal length on both sides : its called (zero-skewed)
 
 step 3 Calculate Central moment (m3)
- (Ⅹ_i - mu)^3
+ (Ⅹ_i - mu)^3   
  40 -> 40 -100 = -60  -> (-60)^3 = -216000
  45 -> 45 -100 = -55  -> (-55)^3 = -166375
  50 -> 50 -100 = -50  -> (-50)^3 = -125000
